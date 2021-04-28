@@ -1,8 +1,8 @@
 <div>
   <div class="flex flex-col h-screen text-sm text-gray-300">
-    <div class="bg-blue-500 flex-1 flex overflow-hidden">
+    <div class="flex-1 flex overflow-hidden">
       <div
-        class="sidebar bg-gray-900 w-48 flex-none flex flex-col justify-between font-semibold"
+        class="bg-gray-800 w-48 flex-none flex flex-col justify-between font-semibold"
       >
         <ul class="py-6">
           <li class="border-l-4 border-green-600">
@@ -60,7 +60,7 @@
           </li>
         </ul>
         <div class="overflow-y-auto px-4 mt-2">
-          <h3 class="uppercase tracking-widest">Your Library</h3>
+          <h3 class="tracking-widest">Your Library</h3>
           <ul class="leading-loose">
             <li class="truncate">
               <a href="#" class="hover-text-white">Made for you</a>
@@ -84,7 +84,7 @@
               <a href="#" class="hover-text-white">Podcasts</a>
             </li>
           </ul>
-          <h3 class="uppercase tracking-widest mt-5">Your Library</h3>
+          <h3 class="tracking-widest mt-5">Your Library</h3>
           <ul class="leading-loose">
             <li class="truncate">
               <a href="#" class="hover-text-white">Made for you</a>
@@ -108,7 +108,7 @@
               <a href="#" class="hover-text-white">Podcasts</a>
             </li>
           </ul>
-          <h3 class="uppercase tracking-widest mt-5">Your Library</h3>
+          <h3 class=" tracking-widest mt-5">Your Library</h3>
           <ul class="leading-loose">
             <li class="truncate">
               <a href="#" class="hover-text-white">Made for you</a>
@@ -149,8 +149,8 @@
           >
         </div>
       </div>
-      <div class="content-area bg-gray-700 flex-1  flex flex-col">
-        <div class="top-bar flex items-center justify-between px-4 py-2">
+      <div class="bg-gray-900 flex-1  flex flex-col">
+        <div class="flex items-center justify-between px-4 py-2">
           <div class="flex items-center">
             <button class=" border-none"
               ><svg
